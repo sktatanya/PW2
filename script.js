@@ -6,3 +6,4 @@ let cat = {
 };
 
 alert(typeof cat);
+alert( typeof(cat) );
